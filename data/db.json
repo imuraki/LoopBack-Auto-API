@@ -1,0 +1,13 @@
+{
+    "ids": {
+      "Todo": 5
+    },
+    "models": {
+      "Todo": {
+        "1": "{\"title\":\"Galaxy\",\"desc\":\"Galaxy is big\",\"id\":1}",
+        "2": "{\"title\":\"React\",\"desc\":\"React is powerful and awesome\",\"id\":2}",
+        "3": "{\"title\":\"Apple\",\"desc\":\"New M1 chip released\",\"id\":3}",
+        "4": "{\"title\":\"Dummy\",\"desc\":\"Dummy description.\",\"id\":4}"
+      }
+    }
+  }
